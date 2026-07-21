@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-q6pag3.date-me.pro/sitemap.xml
